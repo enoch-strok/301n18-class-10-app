@@ -1,0 +1,12 @@
+
+
+# Environment files - added by security audit
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+process.env
+
+# Claude Code
+.claude/
